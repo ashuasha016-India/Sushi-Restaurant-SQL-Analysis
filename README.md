@@ -58,7 +58,16 @@ data-driven recommendations to improve restaurant performance.
 16."Which staff roles have the highest average base hourly rate?"
 
 ## 🔍 Key Insights
-
+* Regular customers generated the highest revenue among all customer segments.
+*  Local customers generated more revenue than non-local customers.
+* Dine-in was the highest-revenue-generating sales channel.
+* Weekend performance was lower than weekday performance in terms of both revenue and gross profit.
+* Roll items generated the highest number of orders and contributed the highest sales and profit among the menu categories.
+* Takeaway had the highest average customer rating (3.72), followed by dine-in (3.66) and delivery (3.51).
+* Sashimi, Omakase, and Nigiri generated relatively high revenue but had lower gross profit margins, indicating that their strong sales did not translate into equally strong profitability.
+* The Server role had the highest number of terminated employees.
+* Head Chef had the highest average base hourly rate among the staff roles.
+* Monthly revenue shows an overall increasing trend over the period, although there are several fluctuations, including a sharp decline followed by a strong recovery.
 
 
 ## 👩‍💻 Skills Demonstrated
